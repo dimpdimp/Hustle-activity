@@ -1,2 +1,4 @@
-# Hustle-activity
-My journey from 15 to 17: Learning IT and Python.
+#My Coding Journey
+Started: March 2024
+Age:15
+Goal: Master IT and build a business by 17.
